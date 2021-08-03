@@ -8,10 +8,10 @@ As the name suggests this python program is used to detect motion and time inter
 
   # Setup
   The following libraries should be installed before execution
-      1.open CV
+      1.open CV,
         pip install opencv-python
-      2.pandas
+      2.pandas,
         Pip install pandas
-      3.time
+      3.time,
         pip install time
 
